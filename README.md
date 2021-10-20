@@ -1,4 +1,4 @@
-[![Header](https://github.com/krevan88/krevan88/blob/main/hellothere.gif?raw=true "Hello There")](https://some-url.dev/)
+[![Header](https://github.com/krevan88/krevan88/blob/main/hellothere.gif?raw=true "Hello There")](https://github.com/krevan88/)
 
 I'm not going to lie, that's all I know about Star Wars.
 
