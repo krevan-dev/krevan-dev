@@ -1,6 +1,6 @@
 [![Header](https://github.com/krevan88/krevan88/blob/main/hellothere.gif?raw=true "Hello There")](https://github.com/krevan88/)
 
-I'm not going to lie, that's all I know about Star Wars.
+I'm not going to lie, that's all I know about Star Wars. 🏴‍☠️
 
 <!--
 **krevan88/krevan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
