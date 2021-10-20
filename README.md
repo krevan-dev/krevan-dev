@@ -1,4 +1,6 @@
-# Hello there, General Kenobi! 👋
+<a href="https://github.com/krevan88/krevan88/"
+<img srg="hellothere.gif" alt="hello_there" width="400" height="400">
+</a>
 
 I'm not going to lie, that's all I know about Star Wars.
 
