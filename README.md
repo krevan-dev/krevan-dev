@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hello there, General Kenobi! 👋
+
+I'm not going to lie, that's all I know about Star Wars.
 
 <!--
 **krevan88/krevan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
