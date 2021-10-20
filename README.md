@@ -1,8 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-<a href="https://github.com/krevan88/krevan88/">
-<img srg="hellothere.gif" alt="hello_there" width="400" height="400">
-</a>
+[![Header](https://github.com/krevan88/krevan88/blob/main/hellothere.gif?raw=true "Hello There")](https://some-url.dev/)
 
 I'm not going to lie, that's all I know about Star Wars.
 
