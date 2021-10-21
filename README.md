@@ -14,7 +14,9 @@ Other things about me are as follows...
 * I know nothing about Star Wars, except for the meme above. Come all ye haters. 🏴‍☠️
 
 <p align="center">
+  
   ### Now for some memes
+  
   <img src="https://user-images.githubusercontent.com/6326898/138196477-fb5cb0d5-1bb8-4653-8740-ae9fa742d21d.png" /><br />
   <img src="https://user-images.githubusercontent.com/6326898/138196566-83d1864a-177a-44c8-9b88-599ec8a7dd88.png" />
 </p>
