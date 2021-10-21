@@ -1,5 +1,4 @@
 <p align="center">
-  [![Header](https://github.com/krevan88/krevan88/blob/main/hellothere.gif?raw=true "Hello There")](https://github.com/krevan88/)
   <img src="https://github.com/krevan88/krevan88/blob/main/hellothere.gif" />
 </p>
 
