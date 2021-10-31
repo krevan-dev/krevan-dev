@@ -13,19 +13,6 @@ Skills: Attempted Some. Mastered None.
 - 🕹️ Lifelong Video Game and Movie Fan.
 - 🕰️ Favorite Movie is Back to the Future.
 - 🎵 Favorite Music Genre is Synthwave (for them late night sessions in VSCode or Atom)
-- 🏴‍☠️ I know nothing about Star Wars, except for the meme above. Come all ye haters.
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krevan88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Krevan#3466)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](http://www.steamcommunity.com/id/krevan88)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krevan88)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/6326898/138196477-fb5cb0d5-1bb8-4653-8740-ae9fa742d21d.png" /><br />
-  <img src="https://user-images.githubusercontent.com/6326898/138196566-83d1864a-177a-44c8-9b88-599ec8a7dd88.png" />
-</p>
 
 <!--
 **krevan88/krevan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
