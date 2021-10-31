@@ -6,13 +6,12 @@ Welcome to my GitHub. I am nowhere near what you would be able to call a develop
 
 Skills: Attempted Some. Mastered None.
 
-- 🏫 I’m currently working on going back to school. 
-- 💻 I’m currently learning HTML, CSS & JS. 
-- 🪖 8 year United States Army Veteran.
-- 👮 6 year Correctional Officer.
-- 🕹️ Lifelong Video Game and Movie Fan.
-- 🕰️ Favorite Movie is Back to the Future.
-- 🎵 Favorite Music Genre is Synthwave (for them late night sessions in VSCode or Atom)
+- I’m currently learning HTML, CSS & JS. 
+- 8 year United States Army Veteran.
+- 6 year Correctional Officer.
+- Lifelong Video Game and Movie Fan.
+- Favorite Movie is Back to the Future.
+- Favorite Music Genre is Synthwave (for them late night sessions in VSCode or Atom)
 
 <!--
 **krevan88/krevan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
