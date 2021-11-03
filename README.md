@@ -6,7 +6,7 @@ I am nowhere near what you would be able to call a developer... yet. I call myse
 - Learning Linux systems in my little spare time.
 - 8 year United States Army Veteran.
 - 6 year Correctional Officer.
-- Hockey fan. Let's go Sharks!
+- Hockey fan. Sharks, Kraken & Steelheads
 - Memelord.
 - Fan of LAN parties and gaming conventions.
 
