@@ -15,7 +15,7 @@ Welcome to my GitHub. I am nowhere near what you would be able to call a develop
 - Movie: Back to the Future.
 - Music: Rock, Metal & Synthwave.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/krevan88"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://reddit.com/u/waffinz"><img alt="Reddit" height="32" width="32" src="assets/reddit.svg"></a>
   <a href="https://steamcommunity.com/id/krevan88"><img alt="Steam" height="32" width="32" src="assets/steam.svg"></a>
