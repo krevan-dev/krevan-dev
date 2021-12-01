@@ -19,7 +19,6 @@ I am nowhere near what you would be able to call a developer... yet. I call myse
 <p>
   <a href="https://krevan88.github.io/BalloonPop/">🎈</a>
   <a href="https://krevan88.github.io/Contacts/">📇</a>
-  <a href="https://krevan88.github.io/MoodyKittens/">😾</a>
 </p>
 
 <p align="right">
