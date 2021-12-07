@@ -15,10 +15,7 @@ I am nowhere near what you would be able to call a developer... yet. I call myse
 - Movies: Back to the Future, Shawshank, Blade Runner, V for Vendetta, What We Do in the Shadows, & The Matrix. (Also Marvel movies...)
 - Music: Rock, Metal & Synthwave.
 - Favorite things to hate: Drinking, smoking and bar hopping. I'd rather stay home.
-<p>
-  <a href="https://krevan88.github.io/BalloonPop/">🎈</a>
-  <a href="https://krevan88.github.io/Contacts/">📇</a>
-</p>
+
 
 <p align="right">
   <a href="https://github.com/krevan88"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
