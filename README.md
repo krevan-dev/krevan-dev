@@ -15,7 +15,7 @@ I am nowhere near what you would be able to call a developer... yet. I call myse
 - Music: Rock, Metal & Synthwave.
 - Favorite things to hate: Drinking, smoking and bar hopping. I'd rather stay home.
 
-
+<p align="left">Repositories I've contributed to outside of school:</p>
 <p align="right">
   <a href="https://github.com/krevan88"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
   <a href="https://reddit.com/u/waffinz"><img alt="Reddit" height="32" width="32" src="assets/reddit.svg"></a>
