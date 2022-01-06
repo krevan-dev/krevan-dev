@@ -3,7 +3,7 @@ I am 33, and I am nowhere near what you would be able to call a developer... yet
 
 ## Stuff to know about me:
 - I've contributed to open-source repositories for games like World of Warcraft and Rust. (Check out my pinned repos.)
-- I have 14 years experience in military and law enforcement fields.
+- I have 14 years experience in military(8) and law enforcement(6) fields.
 - I am a Hockey fan. San Jose Sharks & Idaho Steelheads
 - I am huge video game fan. I love exploring new worlds, and sometimes that is with other people. 
 - I love gaming LAN parties and conventions.
