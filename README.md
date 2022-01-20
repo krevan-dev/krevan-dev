@@ -13,3 +13,5 @@ I am 33, and I do not consider myself to be what you would call a developer... y
 - Games: Halo, Destiny & Cyberpunk 2077.
 - Movies: Back to the Future, Shawshank, Blade Runner, The Matrix, and the MCU.
 - Music: Rock, Metal & Synthwave.
+
+https://www.16personalities.com/profiles/8dc08c4a3f6c5
