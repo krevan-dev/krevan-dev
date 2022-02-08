@@ -14,6 +14,19 @@ I am 33, and I do not consider myself to be what you would call a developer... y
 - Movies: Back to the Future, Shawshank, Blade Runner, The Matrix, and the MCU.
 - Music: Rock, Metal & Synthwave.
 
+<div id="languages">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="" alt="" width="32" height="32">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="" width="32" height="32">
+</div>
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" />
   <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link" />
@@ -27,4 +40,4 @@ I am 33, and I do not consider myself to be what you would call a developer... y
 
 
 
-https://www.16personalities.com/profiles/8dc08c4a3f6c5
+<p align="right">https://www.16personalities.com/profiles/8dc08c4a3f6c5</p>
