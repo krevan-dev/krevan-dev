@@ -17,7 +17,7 @@ I am 33, and I do not consider myself to be what you would call a developer... y
 https://www.16personalities.com/profiles/8dc08c4a3f6c5
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link" />
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" />
+  <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link" />
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Link" />
 </div>
