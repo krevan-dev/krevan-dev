@@ -12,9 +12,15 @@
   </div>
 
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" />
-    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link" />
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Link" />
+    <a href="https://www.linkedin.com/in/krevan88/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Click to visit my LinkedIn" alt="LinkedIn Link" />
+    </a>
+    <a href="https://www.discord.com/users/77313077984374784">
+      <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" title="Click for my Discord contact" alt="Discord Link" />
+    </a>
+    <a href="https://twitter.com/kindakrevan">      
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" title="Click to follow me on Twitter" alt="Twitter Link" />
+    </a>
   </div>
 </div>
 
