@@ -14,7 +14,7 @@ I am 33, and I do not consider myself to be what you would call a developer... y
 - Movies: Back to the Future, Shawshank, Blade Runner, The Matrix, and the MCU.
 - Music: Rock, Metal & Synthwave.
 
-<div id="badges" style="text-align: right">
+<div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" />
   <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link" />
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Link" />
