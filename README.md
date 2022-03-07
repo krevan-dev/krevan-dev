@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kyle! Welcome to my hub of Git!!</h2>
+  <h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kyle! Welcome to my hub of Git!! <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32" height="32"></h2>
   <div id="languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="32" height="32">
@@ -8,7 +8,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="32" height="32">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="VSCode" alt="VSCode" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="VSCode" alt="VSCode" width="32" height="32">
   </div>
