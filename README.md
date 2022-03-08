@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kyle! Welcome to my hub of Git!! <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="25" height="25"></h2>
+  <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kyle! Welcome to my hub of Git!!</h1>
   <div id="languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="32" height="32">
@@ -27,8 +27,8 @@
 
 <hr />
 
-
-I am 33 years old, and I do not consider myself to be what you would call a developer... yet. I am currently toward that goal by attending a Full Stack Web Developer bootcamp. Right now, I would call myself a hacker more than anything, although I would not say that in the traditional picture that media would paint of it. Although I don't fluently know any coding languages, I instead know enough to attempt to understand what I see. I end up looking at code for a long time, while attempting to try to understand what I am looking at. Then I try to hack something together, or bend it to my will. Most of my experience has come from many prior years of World of Warcraft and modifying addons in LUA to do what I want. I even tried my hand at it one time. It didn't end well.
+## My Story
+<p>I am 33 years old, and I do not consider myself to be what you would call a developer... yet. I am currently toward that goal by attending a Full Stack Web Developer bootcamp. Right now, I would call myself a hacker more than anything, although I would not say that in the traditional picture that media would paint of it. Although I don't fluently know any coding languages, I instead know enough to attempt to understand what I see. I end up looking at code for a long time, while attempting to try to understand what I am looking at. Then I try to hack something together, or bend it to my will. Most of my experience has come from many prior years of World of Warcraft and modifying addons in LUA to do what I want. I even tried my hand at it one time. It didn't end well.</p>
 
 ## Stuff to know about me:
 - I've contributed to open-source repositories for games like World of Warcraft and Rust. (Check out my pinned repos.)
@@ -43,5 +43,6 @@ I am 33 years old, and I do not consider myself to be what you would call a deve
 - Movies: Back to the Future, Shawshank, Blade Runner, The Matrix, and the MCU.
 - Music: Rock, Metal & Synthwave.
 
-<br />
+<hr />
+
 <p align="right">https://www.16personalities.com/profiles/8dc08c4a3f6c5</p>
