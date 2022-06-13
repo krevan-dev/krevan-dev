@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px"> I'm Kyle! Welcome to my hub of Git!!</h1>
+  <h1>Hi! I'm Kyle! Welcome to my hub of Git!!</h1>
 	
   <div id="language-icons">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
