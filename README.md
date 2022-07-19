@@ -20,7 +20,7 @@
     <a href="https://www.discord.com/users/77313077984374784">
       <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" title="Click for my Discord contact" alt="Discord Link" />
     </a>
-    <a href="https://twitter.com/kindakrevan">      
+    <a href="https://twitter.com/almostkrevan">      
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" title="Click to follow me on Twitter" alt="Twitter Link" />
     </a>
   </div>
