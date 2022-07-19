@@ -27,14 +27,14 @@
 </div>
 
 ## My Story:
-<p>I am 33 years old, and I do not consider myself to be what you would call a developer... yet. I am currently toward that goal by attending a Full Stack Web Developer bootcamp. Right now, I would call myself a hacker more than anything, although I would not say that in the traditional picture that media would paint of it. Although I don't fluently know any coding languages, I instead know enough to attempt to understand what I see. I end up looking at code for a long time, while attempting to try to understand what I am looking at. Then I try to hack something together, or bend it to my will. Most of my experience has come from many prior years of World of Warcraft and modifying addons in LUA to do what I want. I even tried my hand at it one time. It didn't end well.</p>
+<p>I am a 34 year old US Army Veteran and Software Engineer. My development journey started when I was a teenager playing World of Warcraft and Rust. Playing games like that I would find mods for those games and make edits to them in order to make them do what I want. After joining the military post 9/11, and spending time as a Correctional Officer, I decided to try my hand at software development. I recently completed a Full Stack Web Developer bootcamp, which helped me learn how to use a large variety of languages including HTML, CSS, JavaScript, Bootstrap, VueJS, NodeJS and C#. I also learned some backend database software such as MongoDB and MySQL.</p>
 
 ## Stuff to know about me:
 <ul>
   <li>I've contributed to open-source repositories for games like World of Warcraft and Rust. (Check out my pinned repos.)</li>
   <li>I have 14 years experience in military(8) and law enforcement(6) fields.</li>
-  <li>I am a Hockey fan. San Jose Sharks & Idaho Steelheads.</li>
-  <li>I am huge video game fan. I love exploring new worlds, and sometimes that is with other people.</li>
+  <li>I am a huge hockey fan. San Jose Sharks & Idaho Steelheads.</li>
+  <li>I am a massive video game addict. I love exploring strange new worlds.</li>
   <li>I love gaming LAN parties and conventions.</li>
 </ul>
 
