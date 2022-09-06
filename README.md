@@ -9,8 +9,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="32" height="32">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="VSCode" alt="VSCode" width="32" height="32">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="VSCode" alt="VSCode" width="32" height="32">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="32" height="32">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="32" height="32">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32">
   </div>
 
   <div id="link-badges">
