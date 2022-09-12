@@ -28,7 +28,7 @@
 </div>
 
 ## My Story:
-<p>I am a 34 year old US Army Veteran and Software Engineer. My development journey started when I was a teenager playing World of Warcraft and Rust. Playing games like that I would find mods for those games and make edits to them in order to make them do what I want. After joining the military post 9/11, and spending time as a Correctional Officer, I decided to try my hand at software development. I recently completed a Full Stack Web Developer bootcamp, which helped me learn how to use a large variety of languages including HTML, CSS, JavaScript, Bootstrap, VueJS, NodeJS and C#. I also learned some backend database software such as MongoDB and MySQL. I am now working on a couple smaller side projects, and am excited to see where the industry takes me.</p>
+<p>I am a 34 year old US Army Veteran and Software Engineer. My development journey started with making game addons for World of Warcraft and Rust. After joining the military post 9/11, and spending time as a Correctional Officer, I decided to try my hand at software development. I recently completed a Full Stack Web Developer bootcamp, which helped me learn how to use a large variety of languages including HTML, CSS, JavaScript, Bootstrap, VueJS, NodeJS and C#. I also learned some backend database software such as MongoDB and MySQL. I am now working on a couple smaller side projects, and am excited to see where the industry takes me.</p>
 
 ## Stuff to know about me:
 <ul>
@@ -46,6 +46,3 @@
   <li>Movies: Back to the Future, Shawshank, Blade Runner, The Matrix, and the MCU.</li>
   <li>Music: Rock, Metal & Synthwave.</li>
 </ul>
-
-
-<p align="right">https://www.16personalities.com/profiles/8dc08c4a3f6c5</p>
