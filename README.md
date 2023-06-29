@@ -2,6 +2,9 @@
   <h1>Hi! I'm Kyle! Welcome to my hub of Git!!</h1>
 	
   <div id="language-icons">
+    <a href="https://www.linkedin.com/in/krevan88/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Click to visit my LinkedIn" alt="LinkedIn Link" />
+    </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="32" height="32">
@@ -12,12 +15,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32">
-  </div>
-
-  <div id="link-badges">
-    <a href="https://www.linkedin.com/in/krevan88/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Click to visit my LinkedIn" alt="LinkedIn Link" />
-    </a>
     <a href="https://www.discord.com/users/77313077984374784">
       <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" title="Click for my Discord contact" alt="Discord Link" />
     </a>
