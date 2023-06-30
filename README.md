@@ -2,9 +2,6 @@
   <h1>Hi! Welcome to my hub of Git!!</h1>
 	
   <div id="language-icons">
-    <a href="https://www.linkedin.com/in/krevan88/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Click to visit my LinkedIn" alt="LinkedIn Link" />
-    </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="32" height="32">
