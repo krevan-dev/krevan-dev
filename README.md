@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi! I'm Kyle! Welcome to my hub of Git!!</h1>
+  <h1>Hi! Welcome to my hub of Git!!</h1>
 	
   <div id="language-icons">
     <a href="https://www.linkedin.com/in/krevan88/">
@@ -15,9 +15,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32">
-    <a href="https://www.discord.com/users/77313077984374784">
-      <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" title="Click for my Discord contact" alt="Discord Link" />
-    </a>
   </div>
 </div>
 
