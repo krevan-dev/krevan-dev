@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>Hi! Welcome to my profile!</h1>
-	
   <div id="language-icons">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="32" height="32">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="32" height="32">
